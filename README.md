@@ -8,4 +8,5 @@ The dataset consists of 2 columns - Product and Narratives, in which Product con
 The dataset has 162420 rows in total.
 The aim was to classify the complaints into the 5 categories accurately. 
 
+Sentiment Analysis on the dataset has also been performed in order to identify how the user is feeling while submitting a complaint and a chatbot was created to interact with the user while they submit a complaint and relay their query to management.
 The model was further integrated with a front-end via streamlit.
